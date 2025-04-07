@@ -8,6 +8,14 @@ In a world where the only system administrator for a famous hotel has been hacke
 # Lab Structure
 See the "Lab Specs" folder for the lab scenarios, along with their associated network diagrams and objectives.
 
+## Phase 1 Lab: Re-entering the Hotel Network
+
+## Phase 2 Lab: Monitoring, Logging, and C2s
+
+## Phase 3 Lab: Insider Threats, Rootkits, and Hacking Back
+
+## Phase 4 Lab: Intrusion Detection and Pivoting
+
 # Deployment
 To deploy the machines from these labs, go to the "Lab Specs folder, where you will find the [Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli) configurations needed to set up the machines as needed for the labs.
 
