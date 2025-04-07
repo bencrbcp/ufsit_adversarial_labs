@@ -1,5 +1,5 @@
 # UFSIT Adversarial Labs
-<img src="https://github.com/user-attachments/assets/db2a292b-53b7-4cb3-8043-0980edd2acd2" data-canonical-src="https://www.twinpeaksblog.com/wp-content/uploads/2018/06/33_TPB_VacantPeaks_GNH_2016_GNHExtDay03.jpg" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/db2a292b-53b7-4cb3-8043-0980edd2acd2" data-canonical-src="https://www.twinpeaksblog.com/wp-content/uploads/2018/06/33_TPB_VacantPeaks_GNH_2016_GNHExtDay03.jpg" width="238" height="180" />
 
 Red and blue teaming, for everyone. 
 
