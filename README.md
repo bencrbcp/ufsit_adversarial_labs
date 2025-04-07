@@ -1,5 +1,5 @@
 # UFSIT Adversarial Labs
-![33_TPB_VacantPeaks_GNH_2016_GNHExtDay03](https://github.com/user-attachments/assets/db2a292b-53b7-4cb3-8043-0980edd2acd2 | width=200)
+!![33_TPB_VacantPeaks_GNH_2016_GNHExtDay03](https://github.com/user-attachments/assets/db2a292b-53b7-4cb3-8043-0980edd2acd2 | width=200)
 
 Red and blue teaming, for everyone. 
 
